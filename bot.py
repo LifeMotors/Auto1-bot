@@ -19,7 +19,7 @@ AUTO1_EMAIL    = os.environ.get("AUTO1_EMAIL", "TON_EMAIL_AUTO1")
 AUTO1_PASSWORD = os.environ.get("AUTO1_PASSWORD", "TON_MOT_DE_PASSE_AUTO1")
 TELEGRAM_TOKEN = "8792567363:AAG3ZOoEePpb64HFSbzIyvKrbAZwDg7xQSQ"
 TELEGRAM_CHAT_ID = "8776386291"
-CHECK_INTERVAL = 60  # Vérification toutes les 10 minutes
+CHECK_INTERVAL = 120  # Vérification toutes les 2 minutes
 
 # ============================================================
 # CRITÈRES DE RECHERCHE
